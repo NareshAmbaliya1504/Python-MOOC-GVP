@@ -1,5 +1,5 @@
-NUM_STUDENTS = 10
-NUM_SUBJECTS = 5
+NUM_STUDENTS = 2
+NUM_SUBJECTS = 3
 
 subjects = ["Subject 1", "Subject 2", "Subject 3", "Subject 4", "Subject 5"]
 
